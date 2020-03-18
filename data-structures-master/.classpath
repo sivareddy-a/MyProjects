@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_001_intro"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_002_linkedlists"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_003_arrays"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_004_stacks_and_queues"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_005_sorting"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_006_searching"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_007_hashtables"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_008_recursion"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_009_backtracking"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_010_trees"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_011_balanced_trees"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_012_decision_trees"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_013_network_algorithms"/>
+	<classpathentry kind="src" path="data-structures-in-java-master/src/ds_999_misc"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
